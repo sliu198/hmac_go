@@ -1,11 +1,8 @@
-#hmac
-
+# hmac
 sha256 hmac utility written in Golang 
 
-##Build
-
+## Build
 `GOOS=<target OS> GOARCH=<target architecture> ./build.sh`
 
-##Usage
-
+## Usage
 `hmac <key> <message>`
